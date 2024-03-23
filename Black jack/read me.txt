@@ -1,0 +1,4 @@
+This game is made using python
+It uses OOPS concept and the file is divided in a class based format
+
+To run this game type : "Python blackjack.py"

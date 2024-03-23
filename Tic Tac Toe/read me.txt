@@ -1,0 +1,5 @@
+This is a simple game made using basic pyhton and its functions
+No OOPS concept was used
+
+
+Command To run this file : "Python tictactoe.py"
